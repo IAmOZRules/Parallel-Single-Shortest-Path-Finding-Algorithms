@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "stdlib.h": "c",
+        "omp.h": "c",
+        "common.h": "c",
+        "generate_graph.h": "c",
+        "string.h": "c",
+        "dijkstra_common.h": "c",
+        "dijkstra_serial.h": "c",
+        "dijkstra_parallel.h": "c"
+    }
+}
